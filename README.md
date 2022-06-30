@@ -14,7 +14,7 @@ In this section, the tasks are as follows:
 
 In the example, we help the client Digital Healthcare design a system for booking a doctor's appointments, analyze new features and scale the system into a cloud based architecutre.   
 In particular, we confirm with the client the following questions:  
-    
+      
 __Scalability__  
 * How many users must be supported?  
 * Is the number of users expected to increase in the future?  
@@ -57,13 +57,13 @@ Tasks include:
 ## Testing
 In this section, we implement unit testing and explore User Acceptance Testing (UAT) for Email validation.  
 A requirement brief is uploaded.  Below is one example.  
-   
-7.1 Account 
-   These functions are connected to creation of user accounts and login to user accounts. An account is exclusive to a single user 
-7.1.1 Login 
-   REQ-Account-1 Login page 
-   A registered user should be able to login with their email and chosen password and should be redirected to the home page after a successful login.
      
+7.1 Account   
+   These functions are connected to creation of user accounts and login to user accounts. An account is exclusive to a single user   
+7.1.1 Login   
+   REQ-Account-1 Login page   
+   A registered user should be able to login with their email and chosen password and should be redirected to the home page after a successful login.  
+       
 __Test case__: (to test requirement 7.1.1 Login)
   
 __Test Description__: User Log in – Verify that email and password match for an existing user and that the user can log in.  
