@@ -13,8 +13,8 @@ In this section, the tasks are as follows:
 * Scale on-premise system infrastructure to the cloud  
 
 In the example, we help the client Digital Healthcare design a system for booking a doctor's appointments, analyze new features and scale the system into a cloud based architecutre.   
-In particular, we confirm with the client the following questions:  
-      
+In particular, we confirm with the client the following questions:    
+        
 __Scalability__  
 * How many users must be supported?  
 * Is the number of users expected to increase in the future?  
